@@ -1,0 +1,39 @@
+a {
+  cursor: pointer;
+}
+#content {
+  float: left;
+  width: 100%;
+  margin-top: 5px;
+}
+#start {
+  float: left;
+  width: 100%;        
+}
+.fileinput {
+  position: relative;
+  overflow: hidden;
+}
+.fileinput input {
+  position: absolute;
+  height: 60px;
+  width: 60px;
+  top: -45px;
+  left: 0;
+  margin: 0;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  cursor: pointer;
+}
+.left {
+  float: left;
+  position: relative;
+  width: 60px;
+  height: auto;
+}
+.right {
+  float: left;
+  padding-top: 5px;
+  margin-left: 15px;
+  height: auto;
+}

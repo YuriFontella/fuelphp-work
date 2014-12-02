@@ -1,0 +1,1 @@
+<p>Olá <?php echo $user ?></p>
