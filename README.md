@@ -1,4 +1,4 @@
-CRUD completo utilizando o FeulPHP.
+CRUD completo utilizando o FuelPHP.
 
 Create / Read / Update / Delete
 
